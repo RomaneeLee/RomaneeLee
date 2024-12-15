@@ -10,9 +10,9 @@
 
 <h3 align="center">Programming Works</h3>
 
-<h5 align="center">- In an AI startup project: devoted to the [front-end development of our plan-to-launch software](https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de)
+-    As the founder of an AI startup,my contribution include the [front-end development of our plan-to-launch software](https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de)
 
-<h5 align="center">- Reach me at **romanee.career@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
