@@ -8,9 +8,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-<h3 align="center">Here displays some of my programming works</h3>
+<h3 align="center">Programming Works</h3>
 
-- As the founder of an AI startup,my contribution include the [front-end development of our plan-to-launch software](https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de)
+In an AI startup project: devoted to the [front-end development of our plan-to-launch software](https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de)
 
 - 📫 Reach me at **romanee.career@gmail.com**
 
