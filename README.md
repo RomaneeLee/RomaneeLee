@@ -10,7 +10,19 @@
 
 <h3 align="center">Programming Works</h3>
 
--    As the founder of an AI startup,my contribution include the [front-end development of our plan-to-launch software](https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de)
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;As the founder of an AI startup, my contribution includes the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
+
+
+
+
+
 
 
 
