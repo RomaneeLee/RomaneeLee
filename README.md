@@ -21,7 +21,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Research Project</strong>: contribution include basic data processing works and <a href="https://github.com/RomaneeLee/RomaneeLee/blob/main/Math%20Derivation%20and%20Suggested%20Code.docx">pricing kernel finding process</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Financial Work Bureau Internship:</strong>: both linear and non-linear <a href="https://github.com/RomaneeLee/RomaneeLee/commit/49054e3ba97d94fe87811b2bd490381f55087dfd">multi-factors regression analysis</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Internship Project</strong>: both linear and non-linear <a href="https://github.com/RomaneeLee/RomaneeLee/commit/49054e3ba97d94fe87811b2bd490381f55087dfd">multi-factors regression analysis</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Course Work Project</strong>: Econometrics <a href="">with ARCH, GARCH and Black-Scholes Model</a>
 
 <br>
  
