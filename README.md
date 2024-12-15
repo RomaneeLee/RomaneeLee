@@ -23,7 +23,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Internship Project</strong>: both linear and non-linear <a href="https://github.com/RomaneeLee/RomaneeLee/commit/49054e3ba97d94fe87811b2bd490381f55087dfd">multi-factor regression analysis</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Coursework Project</strong>: Financial Econometrics <a href="[https://github.com/RomaneeLee/RomaneeLee/commit/f79c54f7a38b25d4aaef192b0bf2a07b0c776492](https://github.com/RomaneeLee/RomaneeLee/blob/f79c54f7a38b25d4aaef192b0bf2a07b0c776492/EF4822.pdf)">with ARCH and GARCH Models</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Coursework Project</strong>: Financial Econometrics <a href="https://github.com/RomaneeLee/RomaneeLee/blob/f79c54f7a38b25d4aaef192b0bf2a07b0c776492/EF4822.pdf">with ARCH and GARCH Models</a>
 
 <br><br>
  
