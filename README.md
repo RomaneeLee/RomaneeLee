@@ -23,7 +23,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Internship Project</strong>: both linear and non-linear <a href="https://github.com/RomaneeLee/RomaneeLee/commit/49054e3ba97d94fe87811b2bd490381f55087dfd">multi-factors regression analysis</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Course Work Project</strong>: Econometrics <a href="">with ARCH, GARCH and Black-Scholes Model</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Course Work Project</strong>: Econometrics <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f79c54f7a38b25d4aaef192b0bf2a07b0c776492">with ARCH, GARCH and Black-Scholes Model</a>
 
 <br>
  
