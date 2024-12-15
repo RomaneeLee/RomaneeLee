@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LI_Ruopan!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LIRuopan!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={Thanks}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Email: romanee.career@gmail.com Call:+852 9209-8501}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
