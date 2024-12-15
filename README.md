@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={Thanks}&fontSize=90&fontAlign=50&fontAlignY=70&desc={📧Email: romanee.career@gmail.com☎️Call:+852 9209-8501}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={Thanks}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Email: romanee.career@gmail.com}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
