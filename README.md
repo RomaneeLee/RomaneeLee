@@ -10,7 +10,7 @@
 
 <h3 align="center">Programming Works</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FineTech Entrepreneurship Project: devote to the</strong> <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>FineTech Entrepreneurship Project</strong>: devote to the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
