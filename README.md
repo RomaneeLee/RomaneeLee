@@ -17,7 +17,7 @@
 
 <h3 align="center">Past Programming Works</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. FineTech Entrepreneurship Project</strong>: devote to the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Entrepreneurship Project</strong>: devote to the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Research Project</strong>: contribution includes basic data processing works and <a href="https://github.com/RomaneeLee/RomaneeLee/commit/dc845ba6b545e9fc51490d6ab43a629e98c8da86">pricing kernel finding process</a>
 
