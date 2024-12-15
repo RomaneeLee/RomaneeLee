@@ -15,6 +15,7 @@
 
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the founder of an AI startup, my contribution includes the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
 
 
 <div style="padding-left: 140px;">As the founder of an AI startup, my contribution includes the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a></div>
