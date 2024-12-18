@@ -31,7 +31,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Valuation for Diageo</strong>: finalist work in NIBC competition as  <a href="https://github.com/RomaneeLee/RomaneeLee/commit/c3efe87ed44dd7aa67f0d20f8341ce6dabced34b#diff-95d1cdbb9fdf73f468ca06ddf7a9abd2240011cd90a23c52b134db91b39fb3d9">DCF, COMPs and Precedent Transaction Models</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Sample Internship Valuation Work</strong>: transaction design and DCF valuation <a href="">report</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Sample Internship Valuation Work</strong>: transaction design and DCF valuation <a href="https://github.com/RomaneeLee/RomaneeLee/commit/857632d48d7df431c8478be96b07571acd0abee1">report</a>
 
 
 <br><br>
