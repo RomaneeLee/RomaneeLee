@@ -33,7 +33,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Sample Internship Valuation Work</strong>: non-confidential transaction design and DCF valuation <a href="https://github.com/RomaneeLee/RomaneeLee/commit/857632d48d7df431c8478be96b07571acd0abee1">report</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Modeling in Coursework</strong>: transaction designs <a href="https://github.com/RomaneeLee/RomaneeLee/blob/main/EF4312%20Merger%20Report.pdf">with DCF, LBO and Others</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Modeling in Coursework</strong>: transaction designs <a href="https://github.com/RomaneeLee/RomaneeLee/blob/main/EF4312%20Merger%20Report.pdf">with DCF, MBO and Others</a>
 
 
 <br><br>
