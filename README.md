@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">About Me</h3>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an undergraduate from the City University of Hong Kong. I learned some knowledge of mathematics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an undergraduate from the City University of Hong Kong. I learned some knowledge of mathematics
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and statistics in college and applied them to my business practice in venture capital investment as well as my
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entrepreneurship project. Hope to connect to more passionate developers and build our community together!
 
@@ -29,9 +29,11 @@
 
 <h3 align="center">Financial Modeling Works</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Valuation for Diageo</strong>: finalist work in NIBC competition as  <a href="https://github.com/RomaneeLee/RomaneeLee/commit/c3efe87ed44dd7aa67f0d20f8341ce6dabced34b#diff-95d1cdbb9fdf73f468ca06ddf7a9abd2240011cd90a23c52b134db91b39fb3d9">DCF, COMPs and Precedent Transaction Models</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Valuation for Diageo</strong>: finalist in NIBC competition with  <a href="https://github.com/RomaneeLee/RomaneeLee/commit/c3efe87ed44dd7aa67f0d20f8341ce6dabced34b#diff-95d1cdbb9fdf73f468ca06ddf7a9abd2240011cd90a23c52b134db91b39fb3d9">DCF, LBO, COMPs and Precedent Transaction Models</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Sample Internship Valuation Work</strong>: non-confidential transaction design and DCF valuation <a href="https://github.com/RomaneeLee/RomaneeLee/commit/857632d48d7df431c8478be96b07571acd0abee1">report</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Modeling in Coursework</strong>: transaction designs <a href="">with DCF, LBO and Others</a>
 
 
 <br><br>
